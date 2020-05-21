@@ -85,7 +85,7 @@ img{
 }
 
 #home{
-  background-image: url(../images/main-bg.jpg),linear-gradient(#c9ffbf,#ffafbd);/*線形グラデーション*/
+  background-image: url(main-bg.jpg),linear-gradient(#c9ffbf,#ffafbd);/*線形グラデーション*/
   background-blend-mode: luminosity; /* 重ね合わせ */
   min-height: 100vh;
 }
